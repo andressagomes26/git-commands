@@ -1,6 +1,8 @@
 # <h1 align="center"><font color = #119fbf>Git e GitHub</font></h1>
 Neste repositório estou compartilhando algumas anotações para a consulta sobre os principais comandos do GIT.
 
+<div align="center"><img src='https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png' style='width: 50%;'></div>
+
 ## Sobre 
 Git é um sistema de versionamento de código que guarda os registros de versão como estado do projeto, além da referência para os registros
 
@@ -13,7 +15,7 @@ Git é um sistema de versionamento de código que guarda os registros de versão
 
 **4. Untracked:** Estado inicial;
 
-# <div align="center"><img src='https://github.com/andressagomes26/git-commands/assets/60404990/653b4a3b-d415-43f2-911e-0a2b013ed18c'></div>
+<div align="center"><img src='https://github.com/andressagomes26/git-commands/assets/60404990/653b4a3b-d415-43f2-911e-0a2b013ed18c'></div>
 
 ## Configurando o Git
 ⭐ ```git init```: Inicia um repositório GIT;
