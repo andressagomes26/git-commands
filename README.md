@@ -94,14 +94,12 @@ Git é um sistema de versionamento de código que guarda os registros de versão
 - ```git reset --hard HEAD```: Ignora a existência do commit
 
 #  Git Flow
-O Git Flow é um modelo, uma estratégia ou, ainda, um fluxo de trabalho muito utilizado por equipes de desenvolvimento de software. O Git Flow é recomendado para projetos que utilizam versionamento semântico (semantic versioning) ou que precisam oferecer suporte a várias versões de seu software.
+O Git Flow é um modelo ou um fluxo de trabalho muito utilizado por equipes de desenvolvimento de software. É recomendado para projetos que utilizam versionamento semântico ou que precisam oferecer suporte a várias versões de seu software.
 
 <div align="center"><img src='https://blog.haposoft.com/content/images/2021/06/git-flow-logo-1.png'  style='width: 50%;'></div>
 
 ## Funcionamento
-O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais.
-
-É ideal que todos os commits na branch Master sejam marcados com um número de versão. Na imagem abaixo, vemos como é a estrutura do fluxo do Git Flow:
+O Git Flow trabalha com duas branches principais, a Develop e a Master e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais. É ideal que todos os commits na branch Master sejam marcados com um número de versão.
 
 📌 **Master:** Onde temos todo o código de produção;
   
