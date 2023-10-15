@@ -1,8 +1,10 @@
 # <h1 align="center"><font color = #119fbf>Git e GitHub</font></h1>
 Neste repositório estou compartilhando algumas anotações para a consulta sobre os principais comandos do GIT.
 
-<div align="center"><img src='https://media.licdn.com/dms/image/C4D12AQGXkZf6DJB9kA/article-cover_image-shrink_600_2000/0/1625492357429?e=2147483647&v=beta&t=Za25mgxxiTJH1l0K34GrCEsktnjfn2p_onibFuL2Z0Y' style='width: 50%;'></div>
-<!--div align="center"><img src='https://storage.googleapis.com/workover/courses/banners/93388ff2b17bf2c8b3cf1c780c23d120.png' style='width: 50%;'></div-->
+<!--div align="center"><img src='https://media.licdn.com/dms/image/C4D12AQGXkZf6DJB9kA/article-cover_image-shrink_600_2000/0/1625492357429?e=2147483647&v=beta&t=Za25mgxxiTJH1l0K34GrCEsktnjfn2p_onibFuL2Z0Y' style='width: 50%;'></div>
+<div align="center"><img src='https://storage.googleapis.com/workover/courses/banners/93388ff2b17bf2c8b3cf1c780c23d120.png' style='width: 50%;'></div-->
+
+<div align="center"><img src='https://camo.githubusercontent.com/23c0b44b85450457ebe782b2a867a45f8bd6b5036995fa86aa59c3953413864d/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663616d6f2e716969746175736572636f6e74656e742e636f6d253246373466333761646265326366333032656464386234613733306136343938646265633764613435392532463638373437343730373333613266326637313639363937343631326436393664363136373635326437333734366637323635326537333333326536313664363137613666366536313737373332653633366636643266333032663331333233323331333433323266333833303339333833303339333333393264333033393636363132643631333133333333326433353332333133343264363336313335363536363635333736323339333733373333326537303665363726663d31266e6f66623d31' style='width: 50%;'></div>
 
 ## Sobre 
 Git é um sistema de versionamento de código que guarda os registros de versão como estado do projeto, além da referência para os registros
