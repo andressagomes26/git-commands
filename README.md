@@ -16,7 +16,7 @@ Git é um sistema de versionamento de código que guarda os registros de versão
 
 **4. Untracked:** Estado inicial, ou seja, o git ainda não conhece nenhuma versão da existência do arquivo;
 
-<div align="center"><img src='https://github.com/andressagomes26/git-commands/assets/60404990/653b4a3b-d415-43f2-911e-0a2b013ed18c'></div>
+<div align="center"><img src='https://github.com/andressagomes26/git-commands/assets/60404990/f94610c3-140b-4ccc-8992-59c78591f2a8'></div>
 
 ## Configurando o Git
 ⭐ ```git init```: Inicia um repositório GIT;
