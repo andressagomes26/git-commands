@@ -72,6 +72,8 @@ Git é um sistema de versionamento de código que guarda os registros de versão
 
 ⭐ ```git branch```: Verificar as branchs que existem e qual a branch atual;
 
+⭐ ```git branch -a```: Listar todas as branches disponíveis, incluindo as remotas
+
 ⭐ ```git branch name_branch```: Criar uma nova branch;
 
 ⭐ ```git log --oneline --decorate```: Indica para onde o head está apontando;
