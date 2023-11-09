@@ -114,7 +114,9 @@ O Git Flow trabalha com duas branches principais, a Develop e a Master e três b
 📌 **Hotflix:** É uma branch criada a partir da master para realizar correções imediatas encontradas no sistema em produção.
   
 📌 **Release**: A Branch Release serve como ponte para fazer o merge da Develop para a Master. Ela funciona como ambiente de homologação e é removida após realizar os testes do merge com a Master. Caso seja encontrado algum bug e haja alguma alteração, ela também deve ser sincronizada com a Develop.
-  
+
+<div align="center"><img src='https://www.alura.com.br/artigos/assets/git-flow-o-que-e-como-quando-utilizar/imagem3.png'  style='width: 50%;'></div>
+
 ## Implementação   
 
 ⭐ ```git flow init```: Inicia o git flow;
